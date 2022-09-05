@@ -1,0 +1,15 @@
+/home/gangss/Documentos/@/Dotnet/dio3/bin/Debug/net6.0/dio3
+/home/gangss/Documentos/@/Dotnet/dio3/bin/Debug/net6.0/dio3.deps.json
+/home/gangss/Documentos/@/Dotnet/dio3/bin/Debug/net6.0/dio3.runtimeconfig.json
+/home/gangss/Documentos/@/Dotnet/dio3/bin/Debug/net6.0/dio3.dll
+/home/gangss/Documentos/@/Dotnet/dio3/bin/Debug/net6.0/ref/dio3.dll
+/home/gangss/Documentos/@/Dotnet/dio3/bin/Debug/net6.0/dio3.pdb
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.csproj.AssemblyReference.cache
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.AssemblyInfoInputs.cache
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.AssemblyInfo.cs
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.csproj.CoreCompileInputs.cache
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.dll
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/ref/dio3.dll
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.pdb
+/home/gangss/Documentos/@/Dotnet/dio3/obj/Debug/net6.0/dio3.genruntimeconfig.cache
